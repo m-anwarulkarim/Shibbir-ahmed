@@ -30,7 +30,7 @@ const About = () => {
         transition={{ delay: 0.3 }}
         className="text-gray-600 mt-6 text-lg leading-relaxed"
       >
-        I’m <span className="font-semibold text-blue-600">Shibbir Islam</span>,
+        I’m <span className="font-semibold text-blue-600">Shibbir Ahmad</span>,
         a passionate digital marketer with over <strong>3 years</strong> of
         experience in SEO, Google Ads, and conversion strategy. I help brands
         grow through <strong>data-driven campaigns</strong>, ethical marketing,

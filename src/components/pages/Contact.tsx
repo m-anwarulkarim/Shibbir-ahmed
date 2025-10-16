@@ -18,7 +18,7 @@ const ContactForm = () => {
       return;
     }
 
-    fetch("https://formsubmit.co/ajax/anwarulkarim13@gmail.com", {
+    fetch("https://formsubmit.co/ajax/sabbir3025ahmad@gmail.com", {
       method: "POST",
       headers: { Accept: "application/json" },
       body: formData,

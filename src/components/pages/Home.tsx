@@ -44,12 +44,14 @@ const Home = () => {
           transition={{ delay: 0.4 }}
           className="mt-6 text-gray-700 text-lg"
         >
-          I’m <strong>Shibbir Islam</strong>, a results-driven digital marketer
+          I’m <strong>Sabbir Ahmad</strong>, a results-driven digital marketer
           helping businesses grow through SEO, paid ads, and conversion funnels.
         </motion.p>
         <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
           <Button
-            onClick={() => window.open("https://wa.me/8801602867954", "_blank")}
+            onClick={() =>
+              window.open("https://wa.me/88010867312937", "_blank")
+            }
             className="px-6 py-2 text-base bg-emerald-600 hover:bg-emerald-700 text-white"
           >
             Hire Me

@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 w-full bg-white/90 backdrop-blur-lg shadow z-50">
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
         <Link to="/" className="text-2xl font-bold text-blue-600">
-          DMPortfolio
+          DM Shibbir Ahmad
         </Link>
         <ul className="flex gap-6">
           <NavLink to="/" className={linkClass}>
